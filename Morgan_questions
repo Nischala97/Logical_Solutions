@@ -1,5 +1,0 @@
-what is concurrentHashMap?
-Why would it need a seperate class when we got Collections.synchronizedMap()?
-What is load factor in HashMap?
-If 0.75 is the one where performance is better,then why is user given a chance to modify it?
-How to you transfer data from one file to another in descending order of word frequencies?
